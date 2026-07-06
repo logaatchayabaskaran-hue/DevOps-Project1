@@ -1,0 +1,23 @@
+DevOps Project 1 - Linux & Command Line Basics
+
+Commands Practiced:
+
+pwd
+ls
+mkdir DevOps
+cd DevOps
+touch notes.txt
+echo "Learning Linux Commands" > notes.txt
+cat notes.txt
+cp notes.txt backup.txt
+mv backup.txt final.txt
+mkdir ProjectFiles
+mv final.txt ProjectFiles/
+rm notes.txt
+rm -r ProjectFiles
+cd /
+ls
+cd ~
+
+Completed by:
+Logaa
